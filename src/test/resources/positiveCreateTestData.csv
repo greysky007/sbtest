@@ -1,0 +1,5 @@
+id,username,firstName,lastName,email,password,phone,userStatus,expectedStatus
+1,testuser1,John,Doe,john.doe@example.com,Pass123,1234567890,1,201
+2,testuser2,Jane,Smith,jane.smith@example.com,Pass456,0987654321,0,201
+3,testuser3,Robert,Brown,robert.brown@example.com,Pass789,5556667777,1,201
+

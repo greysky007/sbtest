@@ -1,0 +1,6 @@
+id,username,firstName,lastName,email,password,phone,userStatus,expectedStatus
+4,,Alice,Johnson,alice.johnson@example.com,Pass321,4445556666,0,400
+5,testuser5,Charlie,White,charlie.white@,Pass654,3332221111,1,400
+6,testuser6,Emily,Clark,emily.clark@example.com,,5555555555,1,400
+7,testuser7,Daniel,Adams,daniel.adams@example.com,Pass321,not_a_number,0,400
+8,testuser8,Olivia,Davis,olivia.davis@example.com,Pass123,6667778888,-1,400
